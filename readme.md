@@ -6,4 +6,4 @@ step -2 ;
 git commit -m "any message"
 
 step -3 ;
-git pusn origin master;
+git push origin master;
